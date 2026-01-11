@@ -1,4 +1,4 @@
-# Business Sales Performance Analytics
+# Customer Retention & Churn Analysis
 ## Overview
 This project focuses on analyzing customer churn and retention patterns using a real-world subscription dataset. The goal is to identify why customers leave, which segments are most at risk of churn, and how customer lifetime behavior impacts retention.
 The analysis simulates a real SaaS or subscription-based business scenario and provides actionable business recommendations to improve customer retention.
